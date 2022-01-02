@@ -91,3 +91,5 @@ console.log(`value: ${symbol4.description}, type: ${typeof symbol4}`);
 const ellie = {name: 'ellie', age:20};
 ellie.age = 21;
 
+
+let date = new Date();
